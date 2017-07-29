@@ -1,6 +1,6 @@
 {
   "name": "auto-include",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Dynamically add js and css files into your index or auto include your dist files into app index. ",
   "main": "index.js",
   "scripts": {
@@ -21,6 +21,11 @@
     "fs": "0.0.1-security",
     "lodash": "^4.17.4",
     "path": "^0.12.7"
+  },
+  "repository" :
+  {
+    "type" : "git",
+    "url" : "https://github.com/rakibulalam/auto-include"
   },
   "readme": "README.md"
 }
