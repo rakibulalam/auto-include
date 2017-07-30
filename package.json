@@ -1,6 +1,6 @@
 {
   "name": "auto-include",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Dynamically add js and css files into your index or auto include your dist files into app index. ",
   "main": "index.js",
   "scripts": {
